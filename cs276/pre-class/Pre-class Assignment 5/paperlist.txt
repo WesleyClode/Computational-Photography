@@ -1,0 +1,4 @@
+1. Background Matting: The World is Your Green Screen
+2. F, B, Alpha Matting
+Optional:
+1. A Late Fusion CNN for Digital Matting
